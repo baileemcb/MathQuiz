@@ -1,0 +1,10 @@
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Bailee\Documents\Winter 2021\CIT 365 .NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
